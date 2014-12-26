@@ -5,3 +5,5 @@ sensor_index: 36
 ---
 
 {% include sensor.md %}
+
+gpio=$(($base + $i))
